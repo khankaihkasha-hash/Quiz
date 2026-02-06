@@ -36,3 +36,27 @@ The quiz is based on **Frontend Development**, including:
 ---
 
 ## 📂 Project Structure
+quiz-app/
+├── index.html
+├── style.css
+└── script.js
+
+
+---
+
+## ▶ How to Run
+1. Download or clone the repository
+2. Open `index.html` in any browser
+3. Click **Start Quiz** to begin
+
+---
+
+## 📸 Preview
+A modern colorful quiz app with animated UI and theme toggle.
+
+---
+
+## 👩‍💻 Author
+**Khan Kaihkasha Mohammed Kasim**  
+IT Student  
+Syntecxhub Frontend Internship – Task 3
